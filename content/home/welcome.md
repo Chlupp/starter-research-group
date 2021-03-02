@@ -10,7 +10,7 @@ title: "I Am. "
 subtitle: Here and Now
 active: true
 design:
-  columns: "1"
+  columns: "2"
 hero_media: welcome.jpg
 ---
-A journey through the Universe filled with thoughts about Building Science, Energy, the Outdoors, Running and Life
+A journey through the Universe, filled with thoughts about Construction, Building Science, Energy, the Outdoors, Running and Life
