@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: /static/media/20200210_113652.jpg
+    image: /static/media/i-am_heroimage_02w.webp
     image_darken: 0
     image_parallax: false
     image_position: center
