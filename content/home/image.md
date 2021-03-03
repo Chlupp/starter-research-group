@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: Merak
 headless: true
-weight: 30
+weight: 40
 title: null
 subtitle: null
 active: true
