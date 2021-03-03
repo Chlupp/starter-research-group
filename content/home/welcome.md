@@ -6,8 +6,8 @@ widget: hero
 widget_id: Title
 headless: true
 weight: 10
-title: "I Am. "
-subtitle: Here and Now
+title: I Am. Here and Now
+subtitle: ""
 active: true
 design:
   columns: "2"
