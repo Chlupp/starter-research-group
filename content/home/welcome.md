@@ -11,6 +11,8 @@ subtitle: Here and Now
 active: true
 design:
   columns: "2"
+  background:
+    image: /static/media/i-am_heroimage_02w.webp
 hero_media: welcome.jpg
 ---
 A journey through the Universe, filled with thoughts about Construction, Building Science, Energy, the Outdoors, Running and Life
